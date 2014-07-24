@@ -1,0 +1,23 @@
+{
+  "name": "formbuilder",
+  "version": "0.0.0",
+  "description": "Form Builder using Angular js and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shaul21h/formbuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaul21h/formbuilder/issues"
+  },
+  "homepage": "https://github.com/Shaul21h/formbuilder",
+  "dependencies": {
+    "express": "^4.6.1",
+    "grunt": "^0.4.5"
+  }
+}
